@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tJOvxTIzCflV4P28QjlA9IDBK8u/oZtW/WIxJ5iqLas=",
+  "Hash": "8kxAlcMnF0Wulv301xvCR1VMCFzgHrhLOiVw3ZOF0p4=",
   "Source": "SZ.GF.Site",
   "BasePath": "_content/SZ.GF.Site",
   "Mode": "Default",
@@ -1120,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagens\\c908dbb0-e2d3-4714-aece-41a268060ecb_Bisteka Trabalhador.jpeg"
+    },
+    {
+      "Identity": "F:\\Estudos\\Projetos\\SZ.GerenciamentoFornecedor\\src\\SZ.GF.Site\\wwwroot\\imagens\\ef1a2665-3334-4a97-a39a-1c029dbf07d5_Bisteka Trabalhador.jpeg",
+      "SourceId": "SZ.GF.Site",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Estudos\\Projetos\\SZ.GerenciamentoFornecedor\\src\\SZ.GF.Site\\wwwroot\\",
+      "BasePath": "_content/SZ.GF.Site",
+      "RelativePath": "imagens/ef1a2665-3334-4a97-a39a-1c029dbf07d5_Bisteka Trabalhador.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\ef1a2665-3334-4a97-a39a-1c029dbf07d5_Bisteka Trabalhador.jpeg"
     },
     {
       "Identity": "F:\\Estudos\\Projetos\\SZ.GerenciamentoFornecedor\\src\\SZ.GF.Site\\wwwroot\\js\\site.js",
