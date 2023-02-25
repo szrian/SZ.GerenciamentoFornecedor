@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "SZ.GF.Business": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:54460;http://localhost:54461"
+    }
+  }
+}

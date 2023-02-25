@@ -1,0 +1,12 @@
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Business\bin\Debug\net6.0\SZ.GF.Business.deps.json
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Business\bin\Debug\net6.0\SZ.GF.Business.dll
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Business\bin\Debug\net6.0\SZ.GF.Business.pdb
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Business\obj\Debug\net6.0\SZ.GF.Business.csproj.AssemblyReference.cache
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Business\obj\Debug\net6.0\SZ.GF.Business.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Business\obj\Debug\net6.0\SZ.GF.Business.AssemblyInfoInputs.cache
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Business\obj\Debug\net6.0\SZ.GF.Business.AssemblyInfo.cs
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Business\obj\Debug\net6.0\SZ.GF.Business.csproj.CoreCompileInputs.cache
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Business\obj\Debug\net6.0\SZ.GF.Business.dll
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Business\obj\Debug\net6.0\refint\SZ.GF.Business.dll
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Business\obj\Debug\net6.0\SZ.GF.Business.pdb
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Business\obj\Debug\net6.0\ref\SZ.GF.Business.dll

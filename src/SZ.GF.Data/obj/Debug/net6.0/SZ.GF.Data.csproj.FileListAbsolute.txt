@@ -1,0 +1,17 @@
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Data\bin\Debug\net6.0\SZ.GF.Data.deps.json
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Data\bin\Debug\net6.0\SZ.GF.Data.runtimeconfig.json
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Data\bin\Debug\net6.0\SZ.GF.Data.dll
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Data\bin\Debug\net6.0\SZ.GF.Data.pdb
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Data\bin\Debug\net6.0\SZ.GF.Business.dll
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Data\bin\Debug\net6.0\SZ.GF.Business.pdb
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Data\obj\Debug\net6.0\SZ.GF.Data.csproj.AssemblyReference.cache
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Data\obj\Debug\net6.0\SZ.GF.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Data\obj\Debug\net6.0\SZ.GF.Data.AssemblyInfoInputs.cache
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Data\obj\Debug\net6.0\SZ.GF.Data.AssemblyInfo.cs
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Data\obj\Debug\net6.0\SZ.GF.Data.csproj.CoreCompileInputs.cache
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Data\obj\Debug\net6.0\SZ.GF.Data.csproj.CopyComplete
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Data\obj\Debug\net6.0\SZ.GF.Data.dll
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Data\obj\Debug\net6.0\refint\SZ.GF.Data.dll
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Data\obj\Debug\net6.0\SZ.GF.Data.pdb
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Data\obj\Debug\net6.0\SZ.GF.Data.genruntimeconfig.cache
+F:\Estudos\Projetos\SZ.GerenciamentoFornecedor\src\SZ.GF.Data\obj\Debug\net6.0\ref\SZ.GF.Data.dll
